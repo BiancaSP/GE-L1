@@ -1,0 +1,32 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Various Visual Studio Files
+*.opensdf
+*.sdf
+*.suo
+ipch
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.manifest
+*.tlog
+*.obj
+*.idb
+*.lastbuildstate
+*.cache
+*.log
+*.unsuccessfulbuild
+Debug
