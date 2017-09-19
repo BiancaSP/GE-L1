@@ -1,6 +1,6 @@
 #pragma once
 #include "GameComponent.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 namespace Game1
 {
