@@ -1,7 +1,7 @@
 #include<iostream>
 #include "GameComponent.h"
 #include "Player.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <iostream>
 #include <list>
 #include "Game.h"
