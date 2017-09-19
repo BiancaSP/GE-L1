@@ -60,6 +60,7 @@ bool Game::Initialise()
 		(*it)->Initialise();
 		++ it;
 	}
+	return true;
 }
 
 void Game::Update(float timeDelta)
