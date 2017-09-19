@@ -1,6 +1,6 @@
 #include "Player.h"
 #include <iostream>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include "Game.h"
 
 using namespace Game1;
